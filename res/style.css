@@ -1,0 +1,17 @@
+.trip{
+    margin-bottom: 20px;
+}
+.trip-image{
+    width: 120px; height: 120px; border: 1px solid black;
+    float: left;
+    margin-right: 15px;
+}
+.trip-name{
+    font-size: 1.2em;
+}
+.trip-rider{
+    color: #888;
+}
+.trip-destination{
+    color: #888;
+}

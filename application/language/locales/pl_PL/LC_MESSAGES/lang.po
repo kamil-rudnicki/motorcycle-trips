@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenRide\n"
+"POT-Creation-Date: 2014-02-08 17:32+0100\n"
+"PO-Revision-Date: 2014-02-08 17:32+0100\n"
+"Last-Translator: Kamil Rudnicki <kamil.rudnicki@gmail.com>\n"
+"Language-Team: Kamil Rudnicki <kamil.rudnicki@gmail.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;T_\n"
+"X-Poedit-Basepath: ../../../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: controllers\n"
+"X-Poedit-SearchPath-1: views\n"
+"X-Poedit-SearchPath-2: models\n"
+"X-Poedit-SearchPath-3: helpers\n"
+
+#: controllers/motorcycle_rides.php:14
+msgid "None"
+msgstr "Nic"
+
+#: controllers/motorcycle_rides.php:50 controllers/motorcycle_rides.php:170
+#: controllers/user.php:28 controllers/welcome.php:7
+msgid "Choose state"
+msgstr "Wybierz województwo"
+
+#: controllers/motorcycle_rides.php:97
+#, fuzzy
+msgid "You have applied for a ride"
+msgstr "Mam już konto"
+
+#: controllers/motorcycle_rides.php:119
+#, fuzzy
+msgid "Someone applied for your ride"
+msgstr "Kliknij aby zarezerwować"
+
+#: controllers/motorcycle_rides.php:122
+#, fuzzy
+msgid ""
+"You have successfully apply for a ride. Host and you received an email with "
+"contact details. Please check your email and contact host by phone or email."
+msgstr "Email"
+
+#: controllers/motorcycle_rides.php:131
+#, fuzzy
+msgid "You have successfully accepted new participant!"
+msgstr "np. Wrocław"
+
+#: views/_footer.php:7
+msgid "Contact"
+msgstr "Kontakt"
+
+#: views/_footer.php:8
+msgid "Suggestions & Feedback"
+msgstr "Prześlij sugestie"
+
+#: views/_header.php:9 views/_header.php:17
+msgid "Motorcycle Rides"
+msgstr "Wypady Motocyklowe"
+
+#: views/_header.php:28 views/user_rides.php:3
+msgid "My rides"
+msgstr "Moje podróże"
+
+#: views/_header.php:29
+msgid "Hi"
+msgstr "Witaj"
+
+#: views/_header.php:30
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: views/_header.php:32 views/user_login.php:5 views/user_login.php:9
+#: views/auth/login_view.php:5 views/auth/login_view.php:20
+msgid "Log in"
+msgstr "Logowanie"
+
+#: views/_header.php:33 views/auth/register_view.php:6
+msgid "Sign up"
+msgstr "Rejestracja"
+
+#: views/_header.php:45
+msgid "Please fill out your profile"
+msgstr "Uzupełnij swój profil jak znajdziesz chwilę"
+
+#: views/ride_details.php:3
+msgid "is offering a ride"
+msgstr "zaprasza na przejażdżkę"
+
+#: views/ride_details.php:25 views/ride_edit.php:34
+msgid "Departure point"
+msgstr "Miejsce odjazdu"
+
+#: views/ride_details.php:26 views/ride_edit.php:21
+msgid "Destination place"
+msgstr "Cel podróży"
+
+#: views/ride_details.php:27 views/ride_edit.php:29
+msgid "Distance both ways (~ km)"
+msgstr "Dystans w obie strony (~ km)"
+
+#: views/ride_details.php:28 views/ride_edit.php:53
+msgid "Departure date"
+msgstr "Data odjazdu"
+
+#: views/ride_details.php:29 views/ride_edit.php:60
+msgid "I can make a detour"
+msgstr "Mogę zmienić termin"
+
+#: views/ride_details.php:30
+msgid "Ride duration in days"
+msgstr "Długość przejażdżki w dniach"
+
+#: views/ride_details.php:30
+msgid "days"
+msgstr "dni"
+
+#: views/ride_details.php:31 views/ride_edit.php:85 views/ride_listing.php:23
+msgid "Preferred motorcycle types"
+msgstr "Preferowany typ motocykli"
+
+#: views/ride_details.php:32 views/ride_edit.php:112
+#: views/auth/my_profile_view.php:43
+msgid "Description"
+msgstr "Opis"
+
+#: views/ride_details.php:34
+msgid "Offer published"
+msgstr "Data publikacji"
+
+#: views/ride_details.php:40
+msgid "Who is going?"
+msgstr "Kto jedzie?"
+
+#: views/ride_details.php:56
+msgid "Book this seat"
+msgstr "Zarezerwuj to miejsce"
+
+#: views/ride_details.php:68
+msgid "Click to book your seat"
+msgstr "Kliknij aby zarezerwować"
+
+#: views/ride_details.php:69
+msgid "Contact host"
+msgstr "Skontaktuj sie z gospodarzem"
+
+#: views/ride_details.php:74
+msgid "Host"
+msgstr "Gospodarz"
+
+#: views/ride_details.php:77 views/user_profile.php:20
+msgid "years old"
+msgstr "lat"
+
+#: views/ride_details.php:85 views/user_profile.php:10
+msgid "Last online"
+msgstr "Ostatnio widziany online"
+
+#: views/ride_details.php:86 views/user_profile.php:11
+msgid "Member since"
+msgstr "Dołączył"
+
+#: views/ride_details.php:89
+msgid "See my public profile"
+msgstr "Zobacz profil publiczny"
+
+#: views/ride_edit.php:9
+msgid "Offer a ride for free"
+msgstr "Zaoferuj przejażdżkę bezpłatnie"
+
+#: views/ride_edit.php:16
+msgid "Route"
+msgstr "Trasa"
+
+#: views/ride_edit.php:24
+msgid "city, country, place"
+msgstr "miasto, kraj, miejsce"
+
+#: views/ride_edit.php:37 views/auth/my_profile_view.php:25
+msgid "City"
+msgstr "Miasto"
+
+#: views/ride_edit.php:49
+msgid "Dates"
+msgstr "Daty"
+
+#: views/ride_edit.php:72
+msgid "Ride duration in days (one day can be also half day)"
+msgstr "Długość trwania podróży w dniach"
+
+#: views/ride_edit.php:80
+msgid "Parameters"
+msgstr "Parametry"
+
+#: views/ride_edit.php:94
+msgid "Maximum number of motorcycles (including you)"
+msgstr "Maksymalna liczba motocykli (wliczając Ciebie)"
+
+#: views/ride_edit.php:99
+msgid "Sleep"
+msgstr "Nocleg"
+
+#: views/ride_edit.php:101
+msgid "Do not matter"
+msgstr "Nie ma znaczenia"
+
+#: views/ride_edit.php:102
+msgid "Hotel"
+msgstr "Hotel"
+
+#: views/ride_edit.php:103
+msgid "Tent"
+msgstr "Namiot"
+
+#: views/ride_edit.php:115
+msgid ""
+"Provide extra information about your trip. More details about the meeting "
+"point, why you are travelling or anything else other riders should know."
+msgstr ""
+"Provide extra information about your trip. More details about the meeting "
+"point, why you are travelling or anything else other riders should know."
+
+#: views/ride_edit.php:121
+msgid ""
+"I hereby certify that I hold a driving licence and valid motorcycle insurance"
+msgstr "Potwierdzam że posiadam ważne prawo jazdy i ubezpieczenie"
+
+#: views/ride_edit.php:124
+msgid "Publish offer"
+msgstr "Publikuj ofertę"
+
+#: views/ride_listing.php:10
+msgid "Departure city"
+msgstr "Miasto wyjazdu"
+
+#: views/ride_listing.php:13
+msgid "Departure state"
+msgstr "Województwo"
+
+#: views/ride_listing.php:18
+msgid "Duration"
+msgstr "Długość"
+
+#: views/ride_listing.php:19 helpers/text_helper.php:13
+msgid "One day"
+msgstr "Jeden dzień"
+
+#: views/ride_listing.php:20 helpers/text_helper.php:14
+msgid "Two days"
+msgstr "Dwa dni"
+
+#: views/ride_listing.php:21
+msgid "3+ days"
+msgstr "3+ dni"
+
+#: views/ride_listing.php:34 views/user_rides.php:8
+msgid "Add Ride"
+msgstr "Dodaj przejażdżkę"
+
+#: views/ride_listing.php:43 views/user_rides.php:17
+msgid "days long trip"
+msgstr "dniowa przejażdżka"
+
+#: views/ride_listing.php:44 views/user_rides.php:18
+msgid "free seats"
+msgstr "wolnych miejsc"
+
+#: views/user_login.php:8 views/auth/login_view.php:8
+#: views/auth/register_view.php:11
+msgid "Password"
+msgstr "Hasło"
+
+#: views/user_login.php:10 views/auth/forgotten_password.php:5
+#: views/auth/forgotten_password.php:8 views/auth/login_view.php:21
+msgid "Forgot password"
+msgstr "Zapomniałeś hasła"
+
+#: views/user_profile.php:8
+msgid "Member activity"
+msgstr "Aktywność użytkownika"
+
+#: views/user_rides.php:21
+msgid "Edit"
+msgstr "Edytuj"
+
+#: views/auth/login_view.php:18
+msgid "Remember Me"
+msgstr "Pamiętaj mnie"
+
+#: views/auth/my_profile_view.php:4
+msgid "My profile"
+msgstr "Mój profil"
+
+#: views/auth/my_profile_view.php:5
+msgid "View public profile"
+msgstr "Zobacz profil publiczny"
+
+#: views/auth/my_profile_view.php:13
+msgid "Email"
+msgstr "Email"
+
+#: views/auth/my_profile_view.php:17
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: views/auth/my_profile_view.php:18
+msgid "Like Kamil R."
+msgstr "np. Kamil R."
+
+#: views/auth/my_profile_view.php:21
+msgid "Motorcycle"
+msgstr "Motocykl"
+
+#: views/auth/my_profile_view.php:22
+msgid "Like Yamaha XT 600"
+msgstr "np. Yamaha XT 600"
+
+#: views/auth/my_profile_view.php:26
+msgid "Like New York"
+msgstr "np. Wrocław"
+
+#: views/auth/my_profile_view.php:29
+msgid "State"
+msgstr "Województwo"
+
+#: views/auth/my_profile_view.php:35
+msgid "Birth date"
+msgstr "Data urodzenia"
+
+#: views/auth/my_profile_view.php:39
+msgid "Phone"
+msgstr "Telefon"
+
+#: views/auth/my_profile_view.php:46
+msgid "Save"
+msgstr "Zapisz"
+
+#: views/auth/register_view.php:12
+msgid "Confirm password"
+msgstr "Potwierdź hasło"
+
+#: views/auth/register_view.php:18
+msgid "Create free account"
+msgstr "Załóż bezpłatne konto"
+
+#: views/auth/register_view.php:19
+msgid "I already have an account"
+msgstr "Mam już konto"
+
+#: helpers/text_helper.php:12
+msgid "Can't change day"
+msgstr "Brak możliwości przesunięcia"
+
+#: helpers/text_helper.php:15
+msgid "3-5 days"
+msgstr "3-5 dni"
+
+#: helpers/text_helper.php:16
+msgid "6-14 days"
+msgstr "6-14 dni"
+
+#: helpers/text_helper.php:17
+msgid "14-30 days"
+msgstr "14-30 dni"
+
+#: helpers/text_helper.php:18
+msgid "Anything is fine"
+msgstr "Każdy jest dobry"
+
+#: helpers/text_helper.php:23
+msgid "Street/sport"
+msgstr "Szosowe/sportowe"
+
+#: helpers/text_helper.php:24
+msgid "Enduro"
+msgstr "Enduro"
+
+#: helpers/text_helper.php:25
+msgid "Chopper/cruiser"
+msgstr "Chopper"
+
+#: helpers/text_helper.php:26
+msgid "Motocross/dirt bike"
+msgstr "Motocross"
+
+#: helpers/text_helper.php:27
+msgid "Scooter"
+msgstr "Skuter"
+
+#~ msgid "One day or less"
+#~ msgstr "Jeden dzień lub mniej"
